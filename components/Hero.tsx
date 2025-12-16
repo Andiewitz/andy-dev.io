@@ -83,7 +83,7 @@ export const Hero: React.FC = () => {
             
             {/* Super Header / Tag */}
             <h2 className="text-sanity-orange font-mono text-xs md:text-sm uppercase tracking-[0.2em] mb-6 font-bold">
-              Senior Software Engineer
+              Software Engineer
             </h2>
             
             {/* Hero Headline */}
